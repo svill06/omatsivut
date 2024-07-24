@@ -1,0 +1,82 @@
+
+		*
+        {
+			text-decoration: none;
+		}
+		.navbar{
+			background: rgb(0, 0, 0);height: 70px; font-family: calibri; padding-right: 15px;padding-left: 15px  ;
+			
+		}
+		.navdiv{
+			display: flex; align-items: center; justify-content: space-between; 
+		}
+		.logo a{
+			font-size: 40 px; font-weight: 600; color: white; vertical-align: bottom;
+              
+		}
+		li{
+			list-style: none; display: inline-block; 
+		}
+		li a{
+			color: rgb(216, 213, 213); font-size: 40px; font-weight: bold; margin-right: 40px; font-style: italic;
+		}
+		button{
+			background-color: black; margin-left: 10px; border-radius: 10px; padding: 10px; width: 90px;
+		}
+		button a{
+			color: white; font-weight: bold; font-size: 15px;
+         
+		}
+        body {
+            
+            color: rgb(255, 255, 255); text-align: center; font-weight: 600; font-size: 40; 
+        }
+        h1{color: rgb(255, 255, 255);
+        
+        } 
+		
+        h2{background-color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 8px;
+        color: black; 
+        font-style: italic;
+        font-size: 1.5rem;
+		border: 4px solid;
+		
+        }
+        .box{
+            width: 200px;
+            height: 200px;
+            border: 1px solid ;
+            font-size: 40px;
+            text-align: center;
+            background:rgb(255, 40, 2);
+
+            float: left;
+        }        
+		.center{
+			float:left;
+			border: 5px solid;
+			width: 300px;
+			height: 300px;
+		}
+        .box2{background-color: 255,255,255,0.5;
+			text-align: center;
+			padding: 8px;
+			color: black; 
+			font-style: normal;
+			font-size: 1.5rem;
+			border: solid black;
+		}
+		h3{background-color: 255,255,255,0.5;
+			text-align: center;
+			padding: 8px;
+			color: black; 
+			font-style: normal;
+			font-size: 1.5rem;
+			
+		}
+		
+		
+
+		
